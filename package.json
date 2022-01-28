@@ -1,6 +1,6 @@
 {
   "name": "just-for-fun-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI built with Node.js (Just for fun)",
   "main": "index.js",
   "bin": "./index.js",
