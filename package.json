@@ -3,10 +3,17 @@
   "version": "1.0.0",
   "description": "A CLI built with Node.js (Just for fun)",
   "main": "index.js",
+  "bin": "./index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PranavGPR/jff-cli"
+  },
+  "scripts": {
+    "start": "node"
+  },
   "author": "PranavGPR",
   "license": "ISC",
-  "bin": "index.js",
   "dependencies": {
     "chalk": "^5.0.0",
     "chalk-animation": "^1.6.0",
