@@ -1,14 +1,12 @@
 {
   "name": "just-for-fun-cli",
   "version": "1.0.0",
-  "description": "A cli built with Node.js",
+  "description": "A CLI built with Node.js (Just for fun)",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "PranavGPR",
   "license": "ISC",
+  "bin": "index.js",
   "dependencies": {
     "chalk": "^5.0.0",
     "chalk-animation": "^1.6.0",
